@@ -1,4 +1,4 @@
-# TechnicalTestConformit
+# TechnicalTest
 
 Bonjour, merci beaucoup de m'avoir donné l'opposition de faire le test technique, ça m’a pris un peu de temps, je n'avais pas travaillé en C# et ASP.net depuis plusieurs mois hier j'ai été fouiller dans mes anciens projets pour me remettre dedans avant de commencer l'examen, j'ai réussi à tout accomplir les tâches, et même la question bonus :)
 
