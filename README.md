@@ -18,11 +18,11 @@ Dans Docker Cli Postgre
 
 
 
-INSERT INTO "Events" ("Description", "DeclarationDateTime", "DeclaredById") VALUES ('Test', '2020-11-02 00:00:00.0000000+00:00', 'c0a80163-7b48-4d36-9bd7-2b0d7b3dcb6d');
+`INSERT INTO "Events" ("Description", "DeclarationDateTime", "DeclaredById") VALUES ('Test', '2020-11-02 00:00:00.0000000+00:00', 'c0a80163-7b48-4d36-9bd7-2b0d7b3dcb6d');`
 <br/>
 <br/>
 
-INSERT INTO "Documents" ("S3Key", "Description", "EventId") VALUES ('Test', 'Test', 2);\
+`INSERT INTO "Documents" ("S3Key", "Description", "EventId") VALUES ('Test', 'Test', 2);`\
 
 Base Route : api/v1/
 
