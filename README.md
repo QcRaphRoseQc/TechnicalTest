@@ -12,7 +12,7 @@ Dans Docker Cli Postgre
 <br/>
 <br/>
 
-INSERT INTO "Users" ("Id", "FirstName", "LastName", "HireDate") VALUES ('c0a80163-7b48-4d36-9bd7-2b0d7b3dcb6d', 'John', 'Doe', '2021-05-01 00:00:00.0000000+00:00');
+`INSERT INTO "Users" ("Id", "FirstName", "LastName", "HireDate") VALUES ('c0a80163-7b48-4d36-9bd7-2b0d7b3dcb6d', 'John', 'Doe', '2021-05-01 00:00:00.0000000+00:00');`
 <br/>
 <br/>
 
