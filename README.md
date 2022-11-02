@@ -30,10 +30,10 @@ Base Route : api/v1/
 
 |ROUTE | ACTION | DESCRIPTION |
 |------|--------|-------------|
-| Documents                | GET        | Consultation des films (sans critiques et sans acteurs)   |
-| Documents                | POST       | Consultation de tous les acteurs d’un certain film        |
-| Events                   | GET        | Consultation d’un certain film avec ces critiques         |
-| Events/filter            | GET        | Recherche de films                                        |
-| Events/id                | DELETE     | Ajout d’un film (seulement si admin)                      |
-| User                     | GET        | Suppression d’un film (seulement si admin)                |
+| Documents                | GET        | Consultation des documents                                |
+| Documents                | POST       | Ajout d'un documents                                      |
+| Events                   | GET        | Consultation des Events                                   |
+| Events/filter            | GET        | Consultation des Events avec filtre                       |
+| Events/id                | DELETE     | Suppression d'un Event                                    |
+| User                     | GET        | Consultation des users                                    |
 | User                     | POST       | Ajout d’un nouveau user                                   |
