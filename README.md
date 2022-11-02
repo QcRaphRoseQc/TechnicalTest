@@ -24,7 +24,7 @@ Dans Docker Cli Postgres
 <br/>
 <br/>
 
-`INSERT INTO "Documents" ("S3Key", "Description", "EventId") VALUES ('Test', 'Test', 2);`\
+`INSERT INTO "Documents" ("S3Key", "Description", "EventId") VALUES ('Test', 'Test', 2);`
 
 Base Route : api/v1/
 
