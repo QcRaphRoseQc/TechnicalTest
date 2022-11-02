@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  postgres.data:
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: "tfamFuRXWCnyik6Vnh9x"
+    volumes:
+      - postgresdata-volume:/var/lib/postgresql/data
+    ports:
+      - "55432:5432"
+
+  technicaltest:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__TechnicalTestDb=Host=postgres.data;Database=TechnicalTestDb;Username=postgres;Password=tfamFuRXWCnyik6Vnh9x
+    ports:
+      - "6100:80"
+
+volumes:
+  postgresdata-volume:

@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  postgres.data:
+    image: postgres
+
+  technicaltest:
+    image: ${DOCKER_REGISTRY-}technicaltest
+    build:
+      context: .
+      dockerfile: TechnicalTest.API/Dockerfile
