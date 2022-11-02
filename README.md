@@ -2,7 +2,7 @@
 
 Bonjour, merci beaucoup de m'avoir donné l'opposition de faire le test technique, ça m’a pris un peu de temps, je n'avais pas travaillé en C# et ASP.net depuis plusieurs mois hier j'ai été fouiller dans mes anciens projets pour me remettre dedans avant de commencer l'examen, j'ai réussi à tout accomplir les tâches, et même la question bonus :)
 
-J'ai ajouté quelques routes pour pouvoir tester et pour la question bonus, j'ai utilisé Quartz un task scheduler pour .Net https:/www.quartz-schedulernet/
+J'ai ajouté quelques routes pour pouvoir tester et pour la question bonus, j'ai utilisé Quartz un task scheduler pour .Net (https:/www.quartz-schedulernet/)
 
 Merci beaucoup de prendre le temps de regarder tout ça ! ! !
 
