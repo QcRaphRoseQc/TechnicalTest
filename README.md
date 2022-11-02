@@ -8,7 +8,7 @@ Merci beaucoup de prendre le temps de regarder tout ça ! ! !
 
 Pour Tester:
 
-Dans Docker Cli Postgre
+Dans Docker Cli Postgres
 <br/>
 <br/>
 
